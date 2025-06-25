@@ -1,16 +1,12 @@
-## Hi there 👋
+## 👋 Know Me
+💻 Full Stack Developer | Currently building with Laravel, Drupal, React & Next.js  
+🔧 Experienced in PHP, MySQL, API integrations, and web performance optimisation  
+🌱 Constantly learning and contributing to clean, scalable, and secure codebases  
+🤝 Open to collaborations & backend/frontend projects  
 
-<!--
-**chenli12138/chenli12138** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌐 Connect with Me
+[![LinkedIn](https://img.icons8.com/3d-fluency/45/linkedin.png)](https://www.linkedin.com/in/chenli-dev/)
+[![Portfolio](https://img.icons8.com/3d-fluency/45/link.png)](https://chenli.dev)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Languages and Tools
+<img src="https://skillicons.dev/icons?i=php,laravel,react,nextjs,html,js,ts,tailwind,bootstrap,mysql,postgres,git,github,firebase,aws,vscode,figma,linux,docker" width="600" />
