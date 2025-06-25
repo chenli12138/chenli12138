@@ -5,7 +5,7 @@
 🤝 Open to collaborations & backend/frontend projects  
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.icons8.com/3d-fluency/45/linkedin.png)](https://www.linkedin.com/in/chenli-dev/)
+[![LinkedIn](https://img.icons8.com/3d-fluency/45/linkedin.png)](https://www.linkedin.com/in/chen-li-dev/)
 [![Portfolio](https://img.icons8.com/3d-fluency/45/link.png)](https://chenli.dev)
 
 ## 🛠️ Languages and Tools
